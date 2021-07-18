@@ -46,10 +46,10 @@ public class ShopPanel : MonoBehaviour
 
     public void BuyNewBall()
     {
-        //if (IsEnoughCoin())
-        //{
+        if (IsEnoughCoin())
+        {
             BuyBall();
-        //}
+        }
     }
 
     private void BuyBall()
