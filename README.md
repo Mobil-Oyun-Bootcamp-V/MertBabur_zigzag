@@ -4,9 +4,9 @@ Zigzag Clone oyunudur.
 
 ## Ekran Görüntüleri
 
-![menu](menu.png)
+![game1](pic1.png)
 
-![game](game.png)
+![game2](pic2.png)
 
 ## Oyun Videosu
 
